@@ -1,0 +1,30 @@
+.container-text{
+    flex-direction: row;
+}
+.contanier-body {
+    width: 90vw;
+}
+.text-title{
+    color: rgb(116, 235, 116);
+}
+.text-subtittle{
+    color: rgb(0, 132, 255)
+}
+.p-container{
+    width: 15vw;
+}
+
+.p-container-skills{
+    width: 45vw;
+}
+.laboral-experience{
+    width: 40vw;
+}
+.link-url{
+    color: black;
+    text-decoration: none;
+}
+.link-url:hover{
+    color: black;
+    text-decoration: none;
+}
